@@ -39,4 +39,4 @@ We made documentation how you started using this dashboard template and use avai
 <br />
 
 ---
-# [Atlantis Lite](https://appseed.us/atlantis-lite) - Free Bootstrap 4 Admin Dashboard Template provided by ThemeKita.
+[Atlantis Lite](https://appseed.us/atlantis-lite) - Free Bootstrap 4 Admin Dashboard Template provided by ThemeKita.
